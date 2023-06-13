@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59535b9923dc18f4c8af913228098b37, type: 3}
+  m_Name: SOPlayerCard2
+  m_EditorClassIdentifier: 
+  scriptableCardNo: 2
+  scriptableCardColor: Green
+  scriptableCardBackground: {fileID: 0}
+  scriptableCardForeground: {fileID: 0}
+  scriptableCardGraphic: {fileID: 21300000, guid: 785cda5d1fdbea34fbae1bececc7043b, type: 3}
+  scriptableCardButtonGraphic: {fileID: 962263863, guid: c60a0514fe99a6143bdcde5e24c4328b, type: 3}
+  SPCString: 

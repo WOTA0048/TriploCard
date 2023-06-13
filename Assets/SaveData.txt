@@ -1,0 +1,1 @@
+{"savedCardColorData":0,"savedDifficultyData":0,"savedPlayerCardOne":5,"savedPlayerCardTwo":5,"savedPlayerCardThree":3,"savedPlayerCardFour":3,"savedPlayerCardFive":1,"savedPlayerCardSix":1,"savedEnemyCardOne":5,"savedEnemyCardTwo":5,"savedEnemyCardThree":4,"savedEnemyCardFour":2,"savedEnemyCardFive":2,"savedEnemyCardSix":1}

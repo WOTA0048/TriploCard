@@ -1,0 +1,4 @@
+BurgerMenu_Gameplay color overlay:
+
+Color: #343434
+Opacity: 343434

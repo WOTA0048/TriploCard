@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65441b73b9e14a94eab011559d224fc5, type: 3}
+  m_Name: SOCardTeam
+  m_EditorClassIdentifier: 
+  cardBackgroundList:
+  - {fileID: 21300000, guid: f3c54850abc068f4c9379e341edf0ec3, type: 3}
+  - {fileID: 21300000, guid: 7bc5f9553b43f2749a14717f87ddf4fe, type: 3}
+  cardForegroundList:
+  - {fileID: 21300000, guid: 905ef7f929f915840a5efb5574bef0d6, type: 3}
+  - {fileID: 21300000, guid: c2a8414d6d793f641bfa6ae3e76915ed, type: 3}
